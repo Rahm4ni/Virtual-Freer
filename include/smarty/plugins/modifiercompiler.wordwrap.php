@@ -13,6 +13,7 @@
  * Name:     wordwrap<br>
  * Purpose:  wrap a string of text at a given length
  * 
+ */
 <?php
  * @link http://smarty.php.net/manual/en/language.modifier.wordwrap.php wordwrap (Smarty online manual)
  * @author Uwe Tews 
